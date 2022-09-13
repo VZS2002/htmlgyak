@@ -1,0 +1,37 @@
+body{
+background-color: bisque;
+text-align: justify;
+font-family: sans-serif;
+max-width: 1023px;
+margin: auto;
+}
+
+nav>li{
+    display: inline;
+}
+ 
+nav{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underlines;
+}
+section{
+    margin-bottom: px;
+}
+
+footer{
+    background-color: saddlebrown;
+    color: bisque;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+img{
+    
+}
